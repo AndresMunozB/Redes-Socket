@@ -1,3 +1,9 @@
+/* 
+    Autor: Andrés Muñoz
+    Control 4 Redes de Computadores.
+    Servidor.
+*/
+
 #include <unistd.h>
 #include <stdio.h>
 #include <sys/socket.h>

@@ -1,3 +1,9 @@
+/* 
+    Autor: Andrés Muñoz
+    Control 4 Redes de Computadores.
+    Cliente.
+*/
+
 #include <stdio.h>
 #include <sys/socket.h>
 #include <stdlib.h>
